@@ -1,1 +1,1 @@
-# miniproject-handgesturevocaliser
+# Hand Gesture Vocaliser - Mini Project
